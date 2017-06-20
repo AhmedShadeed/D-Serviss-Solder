@@ -29,4 +29,4 @@
 * Фен с встроенным вентилятором с К-термопарой
 
 #### Фото
-![BMW E83 Nexus 7](https://raw.github.com/phpscriptru/D-Serviss-Solder/master/Screenshot.jpg)
+![BMW E83 Nexus 7](https://raw.github.com/phpscriptru/D-Serviss-Solder/master/Foto.jpg)

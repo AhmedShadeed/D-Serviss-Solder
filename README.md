@@ -41,6 +41,6 @@
 * http://goo.gl/GKu0w1 Паяльный фен
 * http://goo.gl/fS1MvT Паяльник A1322. Если есть ручка с терморезистором (A1321), то можно поставить нагреватель с термопарой: http://goo.gl/H9yyfF
 
-Группа в VK: http://vk.com/hamradiogoods. Каждый день выкладываю полезные товары радиолюбителю
+Группа в VK: http://vk.com/WhatWouldSolder. Что бы Такого Спаять?
 
 По всем вопросам: info@phpscript.ru
